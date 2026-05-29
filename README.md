@@ -9,6 +9,12 @@ Currently in my final semester of BCA with hands-on work experience in a React-b
 - **Database:** PostgreSQL
 - **Other:** REST APIs, Responsive Design
 
+## 📌 Featured Projects
+
+### 🔗 [Developer Portfolio](https://shresthaujwol.com.np)
+Personal portfolio built with React.js — showcasing skills and projects.
+`React` `JavaScript` `CSS` `Vercel`
+
 ## 📫 Contact
 - LinkedIn: [Ujwal Shrestha](https://linkedin.com/in/ujwal-shrestha-374757199)
 - Email: haddyref@gmail.com
