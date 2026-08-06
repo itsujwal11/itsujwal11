@@ -16,5 +16,5 @@ Personal portfolio built with React.js — showcasing skills and projects.
 `React` `JavaScript` `CSS` `Vercel`
 
 ## 📫 Contact
-- LinkedIn: [Ujwal Shrestha](https://linkedin.com/in/ujwal-shrestha-374757199)
+- LinkedIn: [Ujwal Shrestha](https://www.linkedin.com/in/ujwol-shrestha-374757199/)
 - Email: haddyref@gmail.com
