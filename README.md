@@ -5,8 +5,8 @@
 <a href="https://shresthaujwol.com.np"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/ujwol-shrestha-374757199/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:haddyref@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://wa.me/YOUR_NUMBER"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href="https://instagram.com/itsujwal12"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://wa.me/9849985413"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 
 <br/><br/>
 
