@@ -39,7 +39,7 @@
 
 ---
 
-## ????? About Me
+## About Me
 
 ```javascript
 const ujwal = {
@@ -85,7 +85,7 @@ I work with **React.js, JavaScript, REST APIs, and modern web technologies**, an
 
 ---
 
-## ?? Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -98,7 +98,7 @@ I work with **React.js, JavaScript, REST APIs, and modern web technologies**, an
 
 </div>
 
-### ?? Developer Portfolio
+### Developer Portfolio
 
 My personal portfolio showcasing my development skills, selected projects, and work.
 
@@ -111,7 +111,7 @@ My personal portfolio showcasing my development skills, selected projects, and w
 
 ---
 
-## ?? GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -138,7 +138,7 @@ My personal portfolio showcasing my development skills, selected projects, and w
 
 ---
 
-## ?? Beyond the Code
+## Beyond the Code
 
 <div align="center">
 
@@ -159,7 +159,7 @@ My personal portfolio showcasing my development skills, selected projects, and w
 
 ---
 
-## ?? Let's Connect
+## Let's Connect
 
 <div align="center">
 
