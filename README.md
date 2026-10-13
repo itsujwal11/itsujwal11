@@ -1,97 +1,186 @@
-# 👋 Hey, I'm Ujwal Shrestha
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+%26+JavaScript+Enthusiast;Building+Responsive+Web+Experiences;Turning+Ideas+Into+Code" alt="Typing SVG" />
-</p>
+<!-- ======================================================= -->
+<!--                 UJWAL SHRESTHA — PROFILE                -->
+<!-- ======================================================= -->
 
-<p align="center">
+<div align="center">
+
+  <!-- Animated Header -->
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1D4ED8,100:38BDF8&height=200&section=header&text=UJWAL%20SHRESTHA&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Kathmandu%2C%20Nepal&descSize=16&descAlignY=55&animation=fadeIn"
+    width="100%"
+    alt="Ujwal Shrestha profile banner"
+  />
+
+  <!-- Animated Typing -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&height=55&lines=Frontend+Developer;React.js+%26+JavaScript+Enthusiast;Building+Responsive+Web+Experiences;Turning+Ideas+Into+Code"
+    alt="Animated introduction"
+  />
+
+  <br/>
+
+  <!-- Social Badges -->
   <a href="https://shresthaujwol.com.np">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/ujwol-shrestha-374757199/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:haddyref@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=itsujwal11&style=flat-square&color=38BDF8&label=PROFILE+VIEWS" alt="Profile views"/>
+
+</div>
 
 ---
 
-### 🧑‍💻 About Me
+## ????? About Me
 
 ```javascript
 const ujwal = {
-  location: "Kathmandu, Nepal 🇳🇵",
+  name: "Ujwal Shrestha",
+  location: "Kathmandu, Nepal ????",
   role: "Frontend Developer",
   education: "BCA Graduate — awaiting results",
-  focus: ["React.js", "JavaScript", "Responsive UI"],
-  exploring: ["Backend Development", "APIs", "PostgreSQL"],
-  motto: "Build things that solve real problems."
+  technologies: ["React.js", "JavaScript", "HTML", "CSS"],
+  interests: [
+    "Building responsive interfaces",
+    "REST API integration",
+    "Backend development",
+    "Practical AI applications"
+  ],
+  goal: "Build software that solves real problems"
 };
 ```
 
-I build responsive web applications with **React.js**, focusing on clean interfaces, practical functionality, and reliable API integration.
+I'm a frontend developer who enjoys turning ideas into responsive, user-friendly web applications.
 
-I'm interested in understanding how applications work beyond the UI and continuously expanding my skills across the full development stack.
+I work with **React.js, JavaScript, REST APIs, and modern web technologies**, and I'm expanding my knowledge of backend development and database-driven applications.
 
-- 🔭 Working on practical web applications and personal projects
-- 🌱 Exploring backend development and database-driven applications
-- 🛠️ Enjoy turning ideas into useful software
-- 📍 Based in Kathmandu, Nepal
-
----
-
-### ⚡ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,postgres,vite,git,github,gitlab,vscode&perline=6" alt="Technology stack" />
-</p>
+- ?? Building personal projects and practical web applications
+- ?? Exploring backend engineering, APIs, and PostgreSQL
+- ?? Interested in useful software, clean interfaces, and continuous learning
+- ?? Kathmandu, Nepal
 
 ---
 
-### 🚀 Featured Project
+## ? Tech Stack
 
-<table>
-  <tr>
-    <td width="100%">
-      <h3>🌐 Developer Portfolio</h3>
-      My personal portfolio showcasing my skills, projects, and development journey.
-      <br /><br />
-      <strong>Built with:</strong> React.js · JavaScript · CSS
-      <br /><br />
-      <a href="https://shresthaujwol.com.np">🔗 Explore Portfolio →</a>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
----
+### Frontend
 
-### 📊 GitHub Activity
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite&theme=dark" alt="Frontend technologies"/>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itsujwal11&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsujwal11&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</p>
+### Database & Tools
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=itsujwal11&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
+<img src="https://skillicons.dev/icons?i=postgres,git,github,gitlab,vscode&theme=dark" alt="Database and development tools"/>
+
+</div>
 
 ---
 
-### 🤝 Let's Connect
+## ?? Featured Projects
 
-<p align="center">
-  <a href="https://shresthaujwol.com.np">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/ujwol-shrestha-374757199/">LinkedIn</a> •
-  <a href="mailto:haddyref@gmail.com">Email Me</a>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>✨ Always learning. Always building. Always improving.</i>
-</p>
+<a href="https://shresthaujwol.com.np">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=itsujwal11&repo=itsujwal11&theme=tokyonight&hide_border=true"
+    alt="Developer portfolio repository card"
+  />
+</a>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=100&section=footer" width="100%" alt="Animated blue footer" />
-</p>
+</div>
+
+### ?? Developer Portfolio
+
+My personal portfolio showcasing my development skills, selected projects, and work.
+
+- **Frontend:** React.js, JavaScript, CSS
+- **Focus:** Responsive design and user experience
+- **Website:** [shresthaujwol.com.np](https://shresthaujwol.com.np)
+- **GitHub:** [View repositories](https://github.com/itsujwal11?tab=repositories)
+
+> Add more projects here as you complete them. A strong project section should explain the problem, the solution, and the technologies actually used.
+
+---
+
+## ?? GitHub Statistics
+
+<div align="center">
+
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=itsujwal11&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="GitHub statistics"
+  />
+
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsujwal11&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most used programming languages"
+  />
+
+  <br/>
+
+  <img
+    src="https://streak-stats.demolab.com?user=itsujwal11&theme=tokyonight&hide_border=true"
+    alt="GitHub contribution streak"
+  />
+
+</div>
+
+---
+
+## ?? Beyond the Code
+
+<div align="center">
+
+  <!-- Cinematic monochrome animation.
+       Replace this URL with your own GIF for the particle artwork effect. -->
+
+  <img
+    src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"
+    width="85%"
+    alt="Animated monochrome-inspired coding artwork"
+  />
+
+  <br/><br/>
+
+  <i>“Great things are built one commit at a time.”</i>
+
+</div>
+
+---
+
+## ?? Let's Connect
+
+<div align="center">
+
+  <a href="https://shresthaujwol.com.np">?? Portfolio</a>
+  &nbsp; • &nbsp;
+  <a href="https://www.linkedin.com/in/ujwol-shrestha-374757199/">?? LinkedIn</a>
+  &nbsp; • &nbsp;
+  <a href="mailto:haddyref@gmail.com">?? Email</a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/itsujwal11">?? GitHub</a>
+
+  <br/><br/>
+
+  <b>? Always learning. Always building. Always improving.</b>
+
+  <br/><br/>
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1D4ED8,100:020617&height=120&section=footer"
+    width="100%"
+    alt="Blue animated footer"
+  />
+
+</div>
