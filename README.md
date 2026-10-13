@@ -1,26 +1,23 @@
-
-<!-- ======================================================= -->
-<!--                 UJWOL SHRESTHA — PROFILE                -->
-<!-- ======================================================= -->
+<!-- Ujwal Shrestha - GitHub profile README -->
 
 <div align="center">
 
-  <!-- Animated Header -->
+  <!-- Header banner -->
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1D4ED8,100:38BDF8&height=200&section=header&text=UJWAL%20SHRESTHA&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Kathmandu%2C%20Nepal&descSize=16&descAlignY=55&animation=fadeIn"
     width="100%"
-    alt="Ujwal Shrestha profile banner"
+    alt="Ujwal Shrestha - Frontend Developer in Kathmandu, Nepal"
   />
 
-  <!-- Animated Typing -->
+  <!-- Typing animation -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&height=55&lines=Frontend+Developer;React.js+%26+JavaScript+Enthusiast;Building+Responsive+Web+Experiences;Turning+Ideas+Into+Code"
-    alt="Animated introduction"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&height=55&lines=Frontend+Developer;React.js+%26+JavaScript+Enthusiast;Building+Responsive+Web+Experiences;Exploring+Backend%2C+APIs+%26+PostgreSQL;Turning+Ideas+Into+Code"
+    alt="Animated tagline: Frontend Developer, React.js and JavaScript enthusiast"
   />
 
   <br/>
 
-  <!-- Social Badges -->
+  <!-- Social badges -->
   <a href="https://shresthaujwol.com.np">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
@@ -44,10 +41,10 @@
 ```javascript
 const ujwal = {
   name: "Ujwal Shrestha",
-  location: "Kathmandu, Nepal ????",
+  location: "Kathmandu, Nepal",
   role: "Frontend Developer",
-  education: "BCA Graduate — awaiting results",
-  technologies: ["React.js", "JavaScript", "HTML", "CSS"],
+  education: "BCA Graduate (awaiting results)",
+  technologies: ["React.js", "JavaScript", "HTML", "CSS", "Tailwind CSS", "Vite"],
   interests: [
     "Building responsive interfaces",
     "REST API integration",
@@ -58,18 +55,15 @@ const ujwal = {
 };
 ```
 
-I'm a frontend developer who enjoys turning ideas into responsive, user-friendly web applications.
+I'm a frontend developer who enjoys turning ideas into responsive, user-friendly web applications. I work with **React.js, JavaScript, REST APIs, and modern web technologies**, and I'm expanding into backend development and database-driven applications.
 
-I work with **React.js, JavaScript, REST APIs, and modern web technologies**, and I'm expanding my knowledge of backend development and database-driven applications.
-
-- ?? Building personal projects and practical web applications
-- ?? Exploring backend engineering, APIs, and PostgreSQL
-- ?? Interested in useful software, clean interfaces, and continuous learning
-- ?? Kathmandu, Nepal
+- **Building:** personal projects and practical web applications
+- **Exploring:** backend engineering, APIs, and PostgreSQL
+- **Interested in:** useful software, clean interfaces, and continuous learning
 
 ---
 
-## ? Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -87,17 +81,6 @@ I work with **React.js, JavaScript, REST APIs, and modern web technologies**, an
 
 ## Featured Projects
 
-<div align="center">
-
-<a href="https://shresthaujwol.com.np">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=itsujwal11&repo=itsujwal11&theme=tokyonight&hide_border=true"
-    alt="Developer portfolio repository card"
-  />
-</a>
-
-</div>
-
 ### Developer Portfolio
 
 My personal portfolio showcasing my development skills, selected projects, and work.
@@ -107,7 +90,24 @@ My personal portfolio showcasing my development skills, selected projects, and w
 - **Website:** [shresthaujwol.com.np](https://shresthaujwol.com.np)
 - **GitHub:** [View repositories](https://github.com/itsujwal11?tab=repositories)
 
-> Add more projects here as you complete them. A strong project section should explain the problem, the solution, and the technologies actually used.
+<!--
+Repo card: replace YOUR_PORTFOLIO_REPO with the portfolio repository name, then uncomment.
+
+<div align="center">
+  <a href="https://github.com/itsujwal11/YOUR_PORTFOLIO_REPO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsujwal11&repo=YOUR_PORTFOLIO_REPO&theme=tokyonight&hide_border=true" alt="Developer portfolio repository card"/>
+  </a>
+</div>
+
+Template for the next project:
+
+### Project Name
+
+One or two sentences: the problem it solves, and how.
+
+- **Stack:** ...
+- **Links:** [Live](https://...) | [Source](https://github.com/itsujwal11/...)
+-->
 
 ---
 
@@ -138,49 +138,36 @@ My personal portfolio showcasing my development skills, selected projects, and w
 
 ---
 
-## Beyond the Code
-
-<div align="center">
-
-  <!-- Cinematic monochrome animation.
-       Replace this URL with your own GIF for the particle artwork effect. -->
-
-  <img
-    src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"
-    width="85%"
-    alt="Animated monochrome-inspired coding artwork"
-  />
-
-  <br/><br/>
-
-  <i>“Great things are built one commit at a time.”</i>
-
-</div>
-
----
-
 ## Let's Connect
 
 <div align="center">
 
-  <a href="https://shresthaujwol.com.np">?? Portfolio</a>
-  &nbsp; • &nbsp;
-  <a href="https://www.linkedin.com/in/ujwol-shrestha-374757199/">?? LinkedIn</a>
-  &nbsp; • &nbsp;
-  <a href="mailto:haddyref@gmail.com">?? Email</a>
-  &nbsp; • &nbsp;
-  <a href="https://github.com/itsujwal11">?? GitHub</a>
+  I'm always happy to talk web development, collaboration, or ideas worth building.
 
   <br/><br/>
 
-  <b>? Always learning. Always building. Always improving.</b>
+  <a href="https://shresthaujwol.com.np">Portfolio</a>
+  &nbsp;&bull;&nbsp;
+  <a href="https://www.linkedin.com/in/ujwol-shrestha-374757199/">LinkedIn</a>
+  &nbsp;&bull;&nbsp;
+  <a href="mailto:haddyref@gmail.com">Email</a>
+  &nbsp;&bull;&nbsp;
+  <a href="https://github.com/itsujwal11">GitHub</a>
+
+  <br/><br/>
+
+  <b>Always learning. Always building. Always improving.</b>
+
+  <br/><br/>
+
+  <i>"Great things are built one commit at a time."</i>
 
   <br/><br/>
 
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1D4ED8,100:020617&height=120&section=footer"
     width="100%"
-    alt="Blue animated footer"
+    alt="Footer wave"
   />
 
 </div>
